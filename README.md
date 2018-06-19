@@ -2,7 +2,7 @@ Tary Bounavong - Online Portfolio
 
 Hello there! I'm Tary, and I'm a recent graduate. I'm am from(and currently living) the USA, and graduated with a Bachelor's Degree in Computer Engineering.
 
-Tary Bounavong https://github.com/tarybbb| | tbounavong@gmail.com
+Tary Bounavong https://github.com/tarybbb/Portfolio| | tbounavong@gmail.com
 
 Statement
 
