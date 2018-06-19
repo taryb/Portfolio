@@ -1,5 +1,5 @@
 Tary Bounavong - Online Portfolio
-
+**not done**
 Hello there! I'm Tary, and I'm a recent graduate. I'm am from(and currently living) the USA, and graduated with a Bachelor's Degree in Computer Engineering.
 
 Tary Bounavong https://github.com/tarybbb/Portfolio| | tbounavong@gmail.com
@@ -33,3 +33,5 @@ Writing: I am currently creating a blog.
 Sport: I love football and fishing.
 
 Travel: I grew up in the west coast and midwest.I haven't traveled as much as I should but that is my goal.
+
+
